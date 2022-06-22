@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "remoter"]
+	path = remoter
+	url = https://github.com/rbigdata/remoter
+	shallow = true
+	registered = true
